@@ -1,0 +1,83 @@
+# כיבוי לנוער הצעיר — Generative Engine Optimization Map
+
+> A volunteer fire department recruitment website aimed at inspiring and motivating youth to join firefighting volunteer services. The site focuses on civic engagement, community service, and youth empowerment, with an emphasis on the exciting and meaningful nature of firefighting volunteering. The tone should be energetic, inspiring, and accessible to teenagers and young adults.
+
+---
+
+## Pages
+
+### בית
+https://-03feae8a.zappy5.app
+גלה את עולם הכבאות ההתנדבותית ב-brentwood volunteer fire department. הפוך לגיבור קהילתי, רכוש מיומנויות מצילות חיים והצטרף למשפחת לוחמי האש. הדרך שלך להתנדבות משמעותית מתחילה כאן!
+
+### תוכניות
+https://-03feae8a.zappy5.app/programs
+היכנס לנעלי לוחם אש בתוכניות ההכשרה של bridgeport volunteer fire department. אימונים מעשיים, סימולציות אמת ומנטורים שיהפכו אותך למקצוען. בוא לשרוף את המסלול!
+
+### אודות
+https://-03feae8a.zappy5.app/about
+הכר את burlington volunteer fire department מקרוב: חזון, ערכים וצעירים כמוך שמשנים את העולם. סיפורים אמיתיים על אומץ, אחווה ונתינה שמחכים לך בפנים. תקרא ותיווכח!
+
+### צור קשר
+https://-03feae8a.zappy5.app/contact
+מוכן לקפוץ לאש? צור קשר עם franklin volunteer fire department עכשיו! מלא פרטים, שאל שאלות וקבל הכוונה אישית לצעד הראשון שלך כלוחם אש מתנדב. אנחנו מחכים לך!
+
+### תודה רבה | כיבוי לנוער הצעיר
+https://-03feae8a.zappy5.app/thank-you
+תודה שפניתם אל תחנת כיבוי אש מתנדבים ברנטווד. פנייתכם התקבלה בהצלחה ונחזור אליכם בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-03feae8a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-03feae8a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-03feae8a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-03feae8a.zappy5.app/contact
+- Endpoint: https://-03feae8a.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About כיבוי לנוער הצעיר
+A volunteer fire department recruitment website aimed at inspiring and motivating youth to join firefighting volunteer services. The site focuses on civic engagement, community service, and youth empowerment, with an emphasis on the exciting and meaningful nature of firefighting volunteering. The tone should be energetic, inspiring, and accessible to teenagers and young adults.
+
+## Target Audience
+- נוער המעוניין להתנדב בכיבוי אש
+- נוער מתנדב בכיבוי אש
+- תלמידי תיכון במגמות אזרחות
+- משתתפי תוכניות מנהיגות לנוער
+
+## Industry
+Volunteer Fire Department
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-03feae8a.zappy5.app/sitemap.xml
+- Robots: https://-03feae8a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-03feae8a.zappy5.app/llms-full.txt
